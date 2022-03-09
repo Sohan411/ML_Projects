@@ -1,2 +1,2 @@
 # ML_Projects
-Making Some Projects with Machine Learning
+Making Some Projects with Machine Learning.
